@@ -1,0 +1,2 @@
+# shell-generet
+Belajar shelll
