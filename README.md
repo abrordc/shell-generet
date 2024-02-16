@@ -1,2 +1,2 @@
 # shell-generet
-Belajar shelll
+Belajar shell generator folder and file and input data
